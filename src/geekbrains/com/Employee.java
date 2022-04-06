@@ -30,6 +30,7 @@ public class Employee {
         System.out.println("mail:" +this.mail);
         System.out.println("salary:" +this.salary);
         System.out.println();
+        //Криво но должно работать
     }
 
     }
